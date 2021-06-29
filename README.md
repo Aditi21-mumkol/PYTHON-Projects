@@ -1,1 +1,1 @@
-# Projects-with-HTML-CSS-and-JS
+# PYTHON PROJECTS
